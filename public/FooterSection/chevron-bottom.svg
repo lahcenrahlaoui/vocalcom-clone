@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header" transform="translate(-1796.000000, -34.000000)" fill="#000000">
+            <g id="Group-5" transform="translate(1146.000000, 14.500000)">
+                <g id="Group-4" transform="translate(556.000000, 10.500000)">
+                    <g id="Group-3" transform="translate(26.000000, 0.000000)">
+                        <polygon id="Path" transform="translate(73.992500, 13.007500) rotate(90.000000) translate(-73.992500, -13.007500) " points="71.765 19.015 70.392 17.584 74.645312 13 70.501 8.429 71.875 7 77.593 12.949"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
